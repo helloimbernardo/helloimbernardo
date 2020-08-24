@@ -6,6 +6,9 @@
 - 🥅 Goal for 2020: **Be more involved in the Open Source community**
 <br> <br>
 
+### Listening on Spotify
+[![Spotify](https://novatorem.bernawastaken.vercel.app/api/spotify)](https://open.spotify.com/user/bernardooliveirajb)
+
 ### Languages and Tools
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
