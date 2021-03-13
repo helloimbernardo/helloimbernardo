@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.JS, React**
 
-- 🥅 Goal for 2020: **Be more involved in the Open Source community**
+- 🥅 Goal for 2021: **Be more involved in the Open Source community**
 <br> <br>
 
 ### Listening on Spotify
