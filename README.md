@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernardo Oliveira</h1>
-<h3 align="center">An interested student from Portugal</h3>
+<h3 align="center">A dev student from Portugal</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node.JS, React**
 
