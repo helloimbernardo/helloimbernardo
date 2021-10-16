@@ -26,9 +26,9 @@
 
 ###  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.bernawastaken.vercel.app/api?username=bernawastaken&show_icons=true&count_private=true&hide_border=true&theme=algolia)
-![Top Langs](https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=bernawastaken&hide_border=true&theme=algolia)
+![GitHub Stats](https://github-readme-stats.bernawastaken.vercel.app/api?username=helloimbernardo&show_icons=true&count_private=true&hide_border=true&theme=algolia)
+![Top Langs](https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=helloimbernardo&hide_border=true&theme=algolia)
 
 ### Find me here
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/berna.was.taken/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/helloimbernardo/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/bernardooliveirajb)
