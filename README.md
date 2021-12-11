@@ -25,6 +25,7 @@ You can take a look at my personal page at [helloimbernardo.ml](https://helloimb
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.bernawastaken.vercel.app/api?username=helloimbernardo&show_icons=true&count_private=true&hide_border=true&theme=algolia)
+<br>
 ![Top Langs](https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=helloimbernardo&hide_border=true&theme=algolia)
 
 ## Find me here
