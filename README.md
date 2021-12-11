@@ -1,35 +1,68 @@
 <h1 align="center">Hi, I'm Bernardo Oliveira ✌</h1>
 
-Hello there, my name is **Bernardo Oliveira** <sub>[(any)](https://pronoun.is/he/:or/they/:or/she)</sub> . I am a 18 year old dev student from Portugal with a special interest for web development and JavaScript.
+<span>
+  Hello there, my name is <b>Bernardo Oliveira</b> <sub><a href="https://pronoun.is/he/:or/they/:or/she" target="_blank"
+                                                           rel="noreferrer">(any)</a></sub> . I am a 18 year old dev student from Portugal with a special interest for web development and JavaScript.
+  <br>
+  You can take a look at my personal page at [helloimbernardo.ml](https://helloimbernardo.ml)
+</span>
 
-You can take a look at my personal page at [helloimbernardo.ml](https://helloimbernardo.ml)
+<h2 align="center"> Listening on Spotify (click below for my profile 😊) </h2>
+<div align="center">
+    <a href="https://open.spotify.com/user/bernardooliveirajb">
+        <img src="https://novatorem.bernawastaken.vercel.app/api/spotify" alt="Spotify"/>
+    </a>
+</div>
 
-## Listening on Spotify (click below for my profile 😊)
-[![Spotify](https://novatorem.bernawastaken.vercel.app/api/spotify)](https://open.spotify.com/user/bernardooliveirajb)
+<h2 align="center"> Languages and Tools </h2>
 
-## Languages and Tools
+<div align="center">
+    <img alt="HTML5" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+    <img alt="CSS3" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+    <img alt="JavaScript" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+    <img alt="Node.js" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+    <img alt="Electron" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
+    <img alt="PHP" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
+    <img alt="Git" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+    <img alt="GitHub" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+    <img alt="Terminal" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+    <img alt="Linux" width="32px"
+         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+</div>
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Electron" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-<img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> 
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<h2 align="center"> GitHub Stats </h2>
 
-<br> <br>
+<div align="center">
+    <img alt="GitHub Stats"
+         src="https://github-readme-stats.bernawastaken.vercel.app/api?username=helloimbernardo&show_icons=true&count_private=true&hide_border=true"/>
+    <br>
+    <img alt="Top Langs"
+         src="https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=helloimbernardo&hide_border=true"/>
+</div>
 
-##  GitHub Stats
+<h2 align="center"> Find me here </h2>
 
-![GitHub Stats](https://github-readme-stats.bernawastaken.vercel.app/api?username=helloimbernardo&show_icons=true&count_private=true&hide_border=true&theme=algolia)
-<br>
-![Top Langs](https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=helloimbernardo&hide_border=true&theme=algolia)
-
-## Find me here
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/helloimbernardo/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://www.twitter.com/helloimbernardo/)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />](https://tumblr.helloimbernardo.ml)
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/bernardooliveirajb)
+<div align="center">
+    <a href="https://www.instagram.com/helloimbernardo/">
+        <img alt="Instagram" height="32" width="32"
+             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+    </a>
+    <a href="https://www.twitter.com/helloimbernardo/">
+        <img alt="Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+    </a>
+    <a href="https://tumblr.helloimbernardo.ml">
+        <img alt="Tumblr" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg"/>
+    </a>
+    <a href="https://open.spotify.com/user/bernardooliveirajb">
+        <img alt="Spotify" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
+    </a>
+</div>
