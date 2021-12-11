@@ -4,11 +4,6 @@ Hello there, my name is **Bernardo Oliveira** <sub>[(any)](https://pronoun.is/he
 
 You can take a look at my personal page at [helloimbernardo.ml](https://helloimbernardo.ml)
 
-- 🌱 I’m currently learning [**Next.js**](https://nextjs.org/)
-
-- 🥅 Goal for 2021: **Be more involved in the Open Source community**
-<br> <br>
-
 ## Listening on Spotify (click below for my profile 😊)
 [![Spotify](https://novatorem.bernawastaken.vercel.app/api/spotify)](https://open.spotify.com/user/bernardooliveirajb)
 
