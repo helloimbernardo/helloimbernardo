@@ -4,7 +4,7 @@
   Hello there, my name is <b>Bernardo Oliveira</b> <sub><a href="https://pronoun.is/he/:or/they/:or/she" target="_blank"
                                                            rel="noreferrer">(any)</a></sub> . I am a 18 year old dev student from Portugal with a special interest for web development and JavaScript.
   <br>
-  You can take a look at my personal page at [helloimbernardo.ml](https://helloimbernardo.ml)
+  You can take a look at my personal page at <a href="https://helloimbernardo.ml">helloimbernardo.ml</a>
 </span>
 
 <h2 align="center"> Listening on Spotify (click below for my profile 😊) </h2>
