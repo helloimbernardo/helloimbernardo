@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bernardo Oliveira ✌</h1>
 
-Hello there, my name is **Bernardo Oliveira** <sub>[(any pronouns)](https://pronoun.is/he/:or/they/:or/she)</sub> . I am a 17 year old dev student from Portugal with a special interest for web development and JavaScript.
+Hello there, my name is **Bernardo Oliveira** <sub>[(any)](https://pronoun.is/he/:or/they/:or/she)</sub> . I am a 18 year old dev student from Portugal with a special interest for web development and JavaScript.
 
 You can take a look at my personal page at [helloimbernardo.ml](https://helloimbernardo.ml)
 
