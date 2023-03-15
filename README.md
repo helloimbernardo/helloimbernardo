@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bernardo Oliveira ✌</h1>
 
 <p align="center">
-    Hello there, my name is <b>Bernardo Oliveira</b> <sub><a href="https://pronoun.is/he/:or/they/:or/she"
+    Hello there, my name is <b>Bernardo Oliveira</b> <sub><a href="https://pronouny.xyz/u/helloimbernardo"
                                                              target="_blank"
                                                              rel="noreferrer">(any)</a></sub> . I am a 18 year old dev
     student from Portugal with a special interest for web development and JavaScript.
