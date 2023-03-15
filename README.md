@@ -3,7 +3,7 @@
 <p align="center">
     Hello there, my name is <b>Bernardo Oliveira</b> <sub><a href="https://pronouny.xyz/u/helloimbernardo"
                                                              target="_blank"
-                                                             rel="noreferrer">(any)</a></sub> . I am a 18 year old dev
+                                                             rel="noreferrer">(any)</a></sub> . I am a 19 year old dev
     student from Portugal with a special interest for web development and JavaScript.
 </p>
 <p align="center">
