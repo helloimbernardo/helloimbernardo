@@ -10,7 +10,7 @@
     You can take a look at my personal page at <b><a href="https://✌🌈✌.ml">✌🌈✌.ml</a></b> <sub> or at <a href="https://helloimbernardo.ml">helloimbernardo.ml</a></sub>
 </p>
 
-<h2 align="center"> Listening on Spotify (click below for my profile 😊) </h2>
+<h2 align="center"> Listening on Spotify (click below for my profile) </h2>
 <div align="center">
     <a href="https://open.spotify.com/user/bernardooliveirajb">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=bernardooliveirajb&count=4" alt="Recently played on Spotify"/>
