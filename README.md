@@ -69,5 +69,5 @@
 </div>
 <br><br>
 <div>
-    <img src="https://raw.githubusercontent.com/helloimbernardo/helloimbernardo/master/anika%20n%20i.png" height="32"/>
+    <img src="https://raw.githubusercontent.com/helloimbernardo/helloimbernardo/master/anikandi.png" height="32"/>
 </div>
