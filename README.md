@@ -67,3 +67,7 @@
         <img alt="Spotify" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
     </a>
 </div>
+<br><br>
+<div>
+    <img src="https://raw.githubusercontent.com/helloimbernardo/helloimbernardo/master/anika%20n%20i.png" height="32"/>
+</div>
