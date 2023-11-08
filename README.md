@@ -7,7 +7,7 @@
     student from Portugal with a special interest for web development and JavaScript.
 </p>
 <p align="center">
-    You can take a look at my personal page at <b><a href="https://helloimbernardo.github.io">helloimbernardo.ml</a>
+    You can take a look at my personal page at <b><a href="https://helloimbernardo.github.io">helloimbernardo.github.io</a>
 </p>
 
 <h2 align="center"> Languages and Tools </h2>
