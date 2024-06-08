@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://github.com/helloimbernardo/helloimbernardo/blob/master/lebron.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.3; background: url('https://github.com/helloimbernardo/helloimbernardo/blob/master/lebron.gif?raw=true');]{x0000}$}
 ```
 
 <h1 align="center">Hi, I'm Bernardo Oliveira ✌</h1>
