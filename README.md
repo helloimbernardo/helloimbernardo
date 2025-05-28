@@ -46,10 +46,3 @@
     </picture>
     
 </div>
-
-<h2 align="center"> Listening on Spotify</h2>
-<div align="center">
-    <a href="https://open.spotify.com/user/bernardooliveirajb">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=bernardooliveirajb&count=4" alt="Recently played on Spotify"/>
-    </a>
-</div>
